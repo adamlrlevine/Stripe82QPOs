@@ -1,4 +1,4 @@
-# A Search for QPOs in the SDSS Stripe 82 Quasar Sample
+## A Search for QPOs in the SDSS Stripe 82 Quasar Sample
 
 * Adam Levine (KIPAC)
 * Bob Wagoner (KIPAC)
@@ -9,6 +9,6 @@ We are searching for a statistical QPO signal in the SDSS Stripe 82 quasar sampl
 
 This is work in progress: please cite "Levine et al, in preparation", and get in touch if you are interested!
 
-## Notes
+### Notes
 
 * The MacLeod et al (2010) Stripe 82 quasar lightcurve dataset
