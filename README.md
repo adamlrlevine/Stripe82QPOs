@@ -11,4 +11,4 @@ This is work in progress: please cite "Levine et al, in preparation", and get in
 
 ### Notes
 
-* The MacLeod et al (2010) Stripe 82 quasar lightcurve dataset
+* [The MacLeod et al (2010) Stripe 82 quasar lightcurve dataset](https://github.com/adamlrlevine/Stripe82QPOs/blob/master/doc/Data.md)
